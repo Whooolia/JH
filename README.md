@@ -1,6 +1,6 @@
 ### 황지현 / Jihyun Hwang 
 #### 📍 FrontEnd Developer in London
-#### 👩🏻‍💻 JavaScript, React, GraphQL, etc <br />
+#### 👩🏻‍💻 JavaScript, TypeScript, React, GraphQL, etc <br />
 #### 🧡 Travel & Blogging & ⛰️🏄‍♀️ 👩‍🍳 <br />
 
 <br />
